@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525473404 source:c:\test\sboutet\parcial 1 practica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1525472956 c:\test\sboutet\parcial 1 practica\lib.h
+
+1525473325 source:c:\test\sboutet\parcial 1 practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
